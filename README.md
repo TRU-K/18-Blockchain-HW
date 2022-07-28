@@ -8,4 +8,4 @@ You’re a fintech engineer who’s working at one of the five largest banks in 
 This task required me to utilize skills learnt using streamlit and python code to create a mock blockchain that can; add blocks to the chain, validate the chain, change the difficulty of the block hashing and explore details of blocks within the chain.
 
 ## Code Output
-Uploading pychain · Streamlit - Brave 2022-07-28 21-32-08.mp4…
+https://user-images.githubusercontent.com/99452833/181497325-93007a15-1725-4a84-b5d4-aa48489de284.mp4
