@@ -1,4 +1,4 @@
-# 19-Blockchain-Wallets-HW
+# 18-Blockchain-HW
 This repo contains homework for unit 18 of my fintech course.
 
 ## Intention
